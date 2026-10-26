@@ -33,7 +33,7 @@ Groups of 5 add a **security & privacy officer** (role card X). In groups of 3, 
 
 ## 3. Record the decision (8 min, together)
 
-**ADR reviewed:** `docs/adr/0002-publish-order-placed-event-via-outbox-and-rabbitmq.md` (transactional outbox + RabbitMQ, from `parm-sw-arch`) by Chayaphon Kultanon
+**ADR reviewed:** `docs/adr/0002-publish-order-placed-event-via-outbox-and-rabbitmq.md` by Chayaphon Kultanon
 **Board members and roles:** Chayaphon Kultanon (architect, AI analyst), Nantaporn Phuaphanbun (product owner), Chatrin Yoonchalard (SRE)
 
 **Decision:** accept with changes

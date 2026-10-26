@@ -1,6 +1,6 @@
 # ADR-0002: Publish an `OrderPlaced` event via a transactional outbox and RabbitMQ
 
-- **Status:** Accepted
+- **Status:** Proposed
 - **Date:** 2026-10-26
 - **Deciders:** ชยพล กุลตานนท์
 
